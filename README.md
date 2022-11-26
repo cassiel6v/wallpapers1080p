@@ -1,7 +1,8 @@
 <div align="center">
     <h1>Wallpapers</h1>
     <p>
-        Personally curated wallpapers, sourced mostly from wallhaven.cc<br />
+        Personal collection of FullHD wallpapers.<br />
+        Sourced mostly from wallhaven.cc<br />
         Resolution: 1920x1080 | 1080x1920<br />
         Format: PNG
     </p>
@@ -21,4 +22,4 @@
 #### Notes
 
 - All credits for these pictures go to their respective creators
-- **[ ! ]** Wallpapers are added and removed frequently ~
+- Repo no longer updated
